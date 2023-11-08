@@ -15,6 +15,8 @@ function generatePassword() {
   var uppercaseanswer = window.confirm('do you want to have upper case letters in it?')
   var specialcharacters = window.confirm('do you want to have special characters in it?')
   var numbers = window.confirm('do you want it to have numbers in it?')
+
+  return password;
 }
 
 function writePassword() {
