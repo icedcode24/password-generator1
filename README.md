@@ -11,4 +11,4 @@ This was a fun application. In order to protect clients sensitive data a random 
 ## Links
 Repository: https://git@github.com:icedcode24/password-generator1.git
 
-liveURL: 
+liveURL: https://icedcode24.github.io/password-generator1/
