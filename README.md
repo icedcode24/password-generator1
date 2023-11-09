@@ -9,6 +9,6 @@ This was a fun application. In order to protect clients sensitive data a random 
 ![fun image](./password-generator-screenshot.png)
 
 ## Links
-Repository: https://git@github.com:icedcode24/password-generator1.git
+Repository: https://github.com/icedcode24/password-generator1
 
 liveURL: https://icedcode24.github.io/password-generator1/
