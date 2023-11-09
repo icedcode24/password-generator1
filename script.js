@@ -5,7 +5,14 @@ var specialcharacters = '!@#$%^&*_'
 var numbers = '123456789'
 var lengthinput = 10;
 var haslowercase = true;
-var hasuppercase = false;
+var hasuppercase = true;
+var hasspecialcharacters = true;
+var hasnumbers = true; 
+if (haslowercase || hasuppercase) {
+  alert("choose at least one character type.")
+}
+
+
 function generatePassword() {
   var password = "";
   
