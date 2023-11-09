@@ -3,7 +3,7 @@ var lowercase = 'abcdefghijklmnopqrstuvwxyz'
 var uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 var specialcharacters = '!@#$%^&*_'
 var numbers = '123456789'
-var lenthinput = 10;
+var lengthinput = 10;
 var haslowercase = true;
 var hasuppercase = false;
 function generatePassword() {
